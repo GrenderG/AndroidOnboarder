@@ -5,9 +5,9 @@
 # Android Onboarder
 Android Onboarder is a lightweight library that helps you to create a simple and beautiful welcome screen (as known as App Intro, Onboarding Experience and etc.) for your users.
 
-<image src="https://raw.githubusercontent.com/GrenderG/AndroidOnboarder/master/art/demo1.gif" width="250px">
-<image src="https://raw.githubusercontent.com/GrenderG/AndroidOnboarder/master/art/demo2.gif" width="250px">
-<image src="https://raw.githubusercontent.com/GrenderG/AndroidOnboarder/master/art/demo3.gif" width="250px">
+<image src="https://raw.githubusercontent.com/chyrta/AndroidOnboarder/master/art/demo1.gif" width="250px">
+<image src="https://raw.githubusercontent.com/chyrta/AndroidOnboarder/master/art/demo2.gif" width="250px">
+<image src="https://raw.githubusercontent.com/chyrta/AndroidOnboarder/master/art/demo3.gif" width="250px">
 
 ## Usage
 
